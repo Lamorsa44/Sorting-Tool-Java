@@ -19,11 +19,11 @@ You can execute the sort.jar file using the command line "java -jar sort.jar {fl
 ## -dataType
   Establishes the type of data you want to sort like 
   
-  ### -line
+  ### line
   sorts lines
-  ### -word
+  ### word
   sorts words
-  ### -long
+  ### long
   sort integers numbers
     
 ## -sortingType
