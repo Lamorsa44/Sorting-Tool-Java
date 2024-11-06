@@ -28,10 +28,15 @@ You can execute the sort.jar file using the command line "java -jar sort.jar {fl
     
 ## -sortingType
   Establishes the sorting type
-    ### natural
-      sorts by natural order
-    ### countBy
-      sorts counting
+  
+  ### natural
+  sorts by natural order
+  
+  ### byCount
+  sorts counting
+
+  ![image](https://github.com/user-attachments/assets/6faf7410-b837-4390-882f-9aea706867ce)
+
       
 ## -inputFile
   Takes the next argument as the input file if not established takes it from the command line while running
